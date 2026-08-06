@@ -108,10 +108,10 @@
                     setStatus("✅ Translated!");
                     if (autoSpeak) speakText(data.translated_text);
                 } else {
-                    setStatus("❌ Translation failed.");
+                    setStatus(" Translation failed.");
                 }
             } catch (err) {
-                setStatus("❌ Server error.");
+                setStatus(" Server error.");
             }
         }
 
