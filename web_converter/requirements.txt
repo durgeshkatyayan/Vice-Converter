@@ -5,7 +5,7 @@ gunicorn==26.0.0
 SpeechRecognition==3.17.0
 deep-translator==1.11.4
 
-requests==2.34.2
+requests==2.34.2   
 beautifulsoup4==4.15.0
 
 Jinja2==3.1.6
